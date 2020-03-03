@@ -1,2 +1,2 @@
 # momentum
-momentum app clone
+cloning momentum app
